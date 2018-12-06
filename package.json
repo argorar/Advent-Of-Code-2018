@@ -1,0 +1,28 @@
+{
+  "name": "adventofcode2018",
+  "version": "1.0.0",
+  "description": "Puzzles Advent of Code 2018",
+  "main": "D1-1.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argorar/Advent-Of-Code-2018.git"
+  },
+  "keywords": [
+    "Advent",
+    "Code",
+    "2018"
+  ],
+  "author": "Sebastian A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argorar/Advent-Of-Code-2018/issues"
+  },
+  "homepage": "https://github.com/argorar/Advent-Of-Code-2018#readme"
+}
