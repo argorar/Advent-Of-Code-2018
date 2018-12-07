@@ -19,7 +19,7 @@ formatedInput.forEach(element => {
     let auxLeft=box.left
     for (let i = 0; i < box.wide; i++) {
         for (let j = 0; j < box.tall; j++) {
-            let coordenada = auxTop+""+auxLeft
+            let coordenada = auxTop+"-"+auxLeft
             if(fabric.has(coordenada))
                 fabric.set(coordenada,2)
             else
